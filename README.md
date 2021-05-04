@@ -1,6 +1,14 @@
-### Hi there 👋
-
-My name is Betül
+ An enthesiastic Quality Assurance Engineer
+- 1+ years Quality Assurance Engineer experience
+- Experience with Java, Python, C#
+- Experience with Appium, Loadium, Testinium, Jmeter, Jenkins
+- Experience working with Selenium, Cucumber, Gauge
+- Experience with JSON, REST, Postman
+- Writing RabbitMQ communication api on Docker
+- Dashboard monitoring and use of dashboards on Grafana
+- Experience with tools such as Jira, Trello
+- Solid understanding of code versioning tools such as Git.
+- Experience with a variety of different testing techniques such as UI Testing, Automated Testing, Test Driven Development
 
 <!--
 **betulyeni/betulyeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
