@@ -1,6 +1,6 @@
  An enthesiastic Quality Assurance Engineer
 - 2+ years Quality Assurance Engineer experience
-- Experience with Java, Python, C#
+- Experience with Java, Python
 - Experience with Appium, Loadium, Testinium, Jmeter, Jenkins
 - Experience working with Selenium, Cucumber, Gauge
 - Experience with JSON, REST, Postman
