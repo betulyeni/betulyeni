@@ -1,5 +1,5 @@
  An enthesiastic Technical Product Owner
-- 2+ years Quality Assurance Engineer experience
+- 3+ years Quality Assurance Engineer experience
 - Experience with Java, Python
 - Experience with Appium, Loadium, Testinium, Jmeter, Jenkins
 - Experience working with Selenium, Cucumber, Gauge
